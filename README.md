@@ -32,7 +32,22 @@ represent any real organisation.
 
 ## Dashboard Preview
 
+## 📊 Dashboard Screenshots
 
+### Executive Summary
+![Executive Summary](screenshots/Executive%20summary.png)
+
+### Revenue Analysis
+![Revenue Analysis](screenshots/Revenue%20Analysis.png)
+
+### Ratios Overview
+![Ratios Overview](screenshots/Ratios%20Overview.png)
+
+### Comparative Dashboard
+![Comparative Dashboard](screenshots/Comparative%20Dashboard.png)
+
+### Benchmark Dashboard
+![Benchmark Dashboard](screenshots/Benchmark%20Dashboard.png)
 
 ## Live Dashboard
 Power BI Service link: *(available upon request)*
