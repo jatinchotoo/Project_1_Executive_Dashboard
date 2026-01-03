@@ -107,10 +107,10 @@ Project_1_Executive_Dashboard/
 │  └─ Comparative Dashboard.png
 ├─ Data_Model_Schema.png
 ├─ scripts/
-│  ├─ measures.dax
-│  └─ scripts_measures.dax.txt
+│  └─ measures.dax
 ├─ Project1-Dashboard.pbix
 └─ README.md
+
 
 
 ## 👨‍💻 Recruiter Note
