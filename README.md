@@ -95,8 +95,7 @@ Benchmark dashboards using gauge visuals to measure:
 
 ---
 
-## 📁 Repository Structure
-```Project_1_Executive_Dashboard/├── Data/│   ├── Financial_Ratios_Reference.csv.xlsx│   ├── Financial_Raw_Data.csv.xlsx│   └── folder/│├── screenshots/│   ├── Executive_summary.png│   ├── Revenue Analysis.png│   ├── Ratios Overview.png│   ├── Benchmark Dashboard.png│   ├── Comparative Dashboard.png│   └── Data_Model_Schema.png│├── scripts/│   ├── measures.dax│   ├── scripts measures.dax.txt│   └── README.md│├── Project1-Dashboard.pbix└── README.md```</pre>
+<pre>## 📁 Repository Structure```Project_1_Executive_Dashboard/├── Data/│   ├── Financial_Ratios_Reference.csv.xlsx│   ├── Financial_Raw_Data.csv.xlsx│   └── folder/│├── screenshots/│   ├── Executive_summary.png│   ├── Revenue Analysis.png│   ├── Ratios Overview.png│   ├── Benchmark Dashboard.png│   ├── Comparative Dashboard.png│   └── Data_Model_Schema.png│├── scripts/│   ├── measures.dax│   ├── scripts measures.dax.txt│   └── README.md│├── Project1-Dashboard.pbix└── README.md```</pre>
 
 
 ## 👨‍💻 Recruiter Note
